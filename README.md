@@ -2,7 +2,7 @@
 # Documentation of Work
 
 This is a project for the Udacity Introduction to Machine Learning course. It involves using machine learning techniques to identify persons of interest in the Enron Scandal, which is a case about corporate fraud. For more information on the Enron Scandal, please click [here](https://en.wikipedia.org/wiki/Enron_scandal).
-.
+The final code for the project is present in the [IPython notebook](https://github.com/Pranavkr117/Enron-POI-identification-/blob/master/poi_id.ipynb).
 
 **Answers to questions for the project:**
 
